@@ -24,6 +24,13 @@
    2. [Frontend Technologies](#frontend-technologies)
    3. [Additional Libraries](#additional-libraries)
    4. [Development Tools](#development-tools)
+5. [Team](#team)
+6. [Setup the Project (Local)](#setup-the-project-local)
+   1. [Setup Frontend](#setup-frontend)
+   2. [Setup Backend](#setup-backend)
+   3. [Running Development Servers](#running-development-servers)
+      1. [Frontend](#frontend)
+      2. [Backend](#backend)
 
 # 🌟 Overview
 
